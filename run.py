@@ -4,7 +4,7 @@ from argparse import ArgumentParser, Namespace
 from PIL import Image
 from time import sleep
 
-from utils import count_execution_time, locate_and_click, locate_with_tries
+from utils import count_execution_time, locate_and_click
 
 
 @count_execution_time

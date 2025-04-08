@@ -79,7 +79,7 @@ def locate_and_click(
     # TODO: check actual movements for y_offset gt 0 and lt 0.
     pyautogui.moveTo(1, 1)
     sleep(0.1)
-    coords = locate_with_tries(element, tries=tries)
+    coords = locate_with_tries(element, tries=tries, **kwargs)
     x = coords[0] + coords[2] / 2 + x_offset
     y = coords[1] + coords[3] / 2 + y_offset
     pyautogui.moveTo(x, y)
