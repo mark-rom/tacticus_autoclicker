@@ -2,6 +2,15 @@
 
 This program automates certain actions in the game Tacticus, such as skipping turns and setting the battle speed. It uses image recognition to locate UI elements on the screen and perform clicks. It *is* dumb and its on purpose.
 
+## ⚠️ Warning ⚠️
+
+**Important:** Snowprint Studios, the developer of the mobile game Tacticus, explicitly prohibits the following in their [Terms of Service](https://snowprintstudios.com/en/snowprint-studios-terms-of-service/#:~:text=Use%2C%20develop%2C%20distribute%20or%20sell%20cheats%2C%20automation%20software%20(bots)%2C%20hacks%20or%20any%20other%20unauthorized%20third%2Dparty%20software%20designed%20to%20modify%20a%20Game%3B):
+
+> "Use, develop, distribute or sell cheats, automation software (bots), hacks or any other unauthorized third-party software **designed to modify a Game**."
+
+Tacticus Autoclicker is designed to comply with these terms by not modifying the game in any way. It does not grant users any unfair advantages or privileges. Instead, it simply automates repetitive actions by simulating user input through image recognition.
+Anyway the developer of Tacticus Autoclicker does not encourage anyone to use it and is not responsible for any consiquences that may or may not follow. Use this software responsibly and at your own risk.
+
 ## Installation
 
 
